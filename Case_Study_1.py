@@ -1,3 +1,5 @@
+# Case Study I: Module 2–Sequences and File Operations
+
 # problem 1
 n = int(input("Enter the no:"))
 factorial = 1
